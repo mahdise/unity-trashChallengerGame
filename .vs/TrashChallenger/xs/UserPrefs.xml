@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BC386C01-D0AF-2D08-FAC3-EFA30223AA70}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CoundownTimer.cs">
+    <Files>
+      <File FileName="Assets/Script/MainMenuNew.cs" Line="1" Column="29" />
+      <File FileName="Assets/Script/CheckSFXVolume.cs" />
+      <File FileName="Assets/Script/CoundownTimer.cs" Line="9" Column="41" />
+      <File FileName="Assets/Script/TestObjectCollisionScript.cs" Line="1" Column="7" />
+      <File FileName="Assets/player_refre/player_ref/Scripts/CharacterController/vThirdPersonController.cs" />
+      <File FileName="Assets/Script/EndScreen.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd35ed37-3313-472e-a1aa-5273c397eba8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
